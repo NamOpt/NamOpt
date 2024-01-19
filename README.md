@@ -17,7 +17,7 @@
 
  - :telescope: i'm a simple developer and a content creator.
  - :zap: in my free time, i solve problems, play some game, updating my program on GitHub and read tech articles.
- - :mailbox: email: namb20994
+ - :mailbox: email: namb20994@gmail.com
 # 🔨 what languages i learn? and what tools you using to bulid apps?
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
