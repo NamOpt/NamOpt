@@ -5,9 +5,9 @@
 [![ver](https://img.shields.io/badge/ytb%3A_NamCzE-gray?style=flat&logo=youtube)](https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA)
 
 # 🗃️ my repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=OptimizedTools)](https://github.com/NamOpt/OptimizedTools)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=hdisk)](https://github.com/NamOpt/hdisk)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=unknown)](https://github.com/NamOpt/unknown)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NamOpt&repo=OptimizedTools)](https://github.com/NamOpt/OptimizedTools)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NamOpt&repo=hdisk)](https://github.com/NamOpt/hdisk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NamOpt&repo=unknown)](https://github.com/NamOpt/unknown)
 
 # ❔ about me? 
 
