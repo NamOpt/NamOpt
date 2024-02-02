@@ -8,6 +8,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NamOpt&repo=OptimizedTools)](https://github.com/NamOpt/OptimizedTools)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NamOpt&repo=hdisk)](https://github.com/NamOpt/hdisk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NamOpt&repo=unknown)](https://github.com/NamOpt/unknown)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NamOpt&repo=unknown)](https://github.com/NamOpt/osu)
 
 # ❔ about me? 
 
